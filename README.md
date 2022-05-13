@@ -1,4 +1,9 @@
-@SpaceTechn my name is Calyne Khamila. I set up this account to showcase my work while learning and sharing knowledge in remote sensing, geographical information system, machine learning and data science with a bias towards natural resource domain. I am skilled in R, python, ArcGIS, QGIS, SNAP and GEE.
+@SpaceTechn my name is Calyne Khamila. 
+Remote sensing analyst
+Currently focusing on using remote sensing, geographical information system, machine learning and data science to solve natural resources problems. 
+Skilled in R, python, ArcGIS, QGIS, SNAP, ERDAS Imagine and GEE.
+Graduate in Geoinformation science and Earth observation
+Passion to learn and share knowledge
 
 <!---
 SpaceTechn/SpaceTechn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
